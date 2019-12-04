@@ -8,9 +8,7 @@ comments: true
 author: Jelicho
 canonical_url: http://jelicho.github.io/2019/09/09/movie_recommend/
 ---
-
-
-
+made by Jelicho
 # 개요
 ![portfolio_page1](/assets/img/portfolio/movie-recommend-site/photo1.jpg)
 # 사진 첨부

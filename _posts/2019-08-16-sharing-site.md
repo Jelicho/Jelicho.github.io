@@ -8,11 +8,7 @@ comments: true
 author: Jelicho
 canonical_url: http://jelicho.github.io/2019/08/16/sharing-site/
 ---
-
-
-
-
-
+made by Jelicho
 # 개요
 ![portfolio_page1](/assets/img/portfolio/sharing-site/photo1.jpg)
 # 사진 첨부
