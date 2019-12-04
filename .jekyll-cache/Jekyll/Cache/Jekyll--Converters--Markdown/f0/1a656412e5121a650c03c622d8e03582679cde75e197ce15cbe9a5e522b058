@@ -1,4 +1,4 @@
-I"<p>Web site를 제작할 때, 개발자들은 대부분 local환경에서 수정 및 보완을 하고 testing과정을 거친 후 배포를 진행한다.</p>
+I"4<p>Web site를 제작할 때, 개발자들은 대부분 local환경에서 수정 및 보완을 하고 testing과정을 거친 후 배포를 진행한다.</p>
 
 <p>나 또한 그러했다.</p>
 
@@ -17,7 +17,7 @@
 
 <p><a href="https://www.ruby-lang.org/ko/downloads/">ruby download site</a></p>
 
-<p><img src="/assets/img/Blog/ruby-download.jpg" alt="" /></p>
+<p><img src="/assets/img/Blog/ruby-download.jpg" alt="다운로드 사이트" /></p>
 
 <h2 id="2-bundle-설치하기">2. bundle 설치하기</h2>
 

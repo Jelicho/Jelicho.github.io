@@ -10,7 +10,7 @@ canonical_url: http://jelicho.github.io/2019/08/16/sharing-site/
 ---
 
 
-![portfolio_page1](../../../../assets/img/portfolio/sharing-site/1.jpg)
-![portfolio_page2](../../../../assets/img/portfolio/sharing-site/2.jpg)
-![portfolio_page3](../../../../assets/img/portfolio/sharing-site/3.jpg)
-![portfolio_page4](../../../../assets/img/portfolio/sharing-site/4.jpg)
+![portfolio_page1](/assets/img/portfolio/sharing-site/1.jpg)
+![portfolio_page2](/assets/img/portfolio/sharing-site/2.jpg)
+![portfolio_page3](/assets/img/portfolio/sharing-site/3.jpg)
+![portfolio_page4](/assets/img/portfolio/sharing-site/4.jpg)

@@ -11,5 +11,5 @@ accent_image:
   background: '#202020'
   overlay:    false
 ---
-![백엔드 개발자 최재림입니다.](../../assets/img/portfolio-main.jpg)
-![목차](../../assets/img/portfolio/content.jpg)
+![백엔드 개발자 최재림입니다.](/assets/img/portfolio-main.jpg)
+![목차](/assets/img/portfolio/content.jpg)

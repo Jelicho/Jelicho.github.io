@@ -29,7 +29,7 @@ jekyll theme블로그가 ruby기반으로 제작되었기 때문에, ruby를 설
 
 [ruby download site](https://www.ruby-lang.org/ko/downloads/)
 
-![](../assets/img/Blog/ruby-download.jpg)
+![다운로드 사이트](/assets/img/Blog/ruby-download.jpg)
 
 
 
