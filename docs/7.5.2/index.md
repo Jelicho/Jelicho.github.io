@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Documentation
 description: >
@@ -53,4 +53,4 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 [advanced]: advanced.md
 [LICENSE]: ../../LICENSE.md
 [NOTICE]: ../../NOTICE.md
-[CHANGELOG]: ../../CHANGELOG.md
+[CHANGELOG]: ../../CHANGELOG.md -->
